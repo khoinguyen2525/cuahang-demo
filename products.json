@@ -2,247 +2,301 @@
     "data": [
         {
             "productName": "Bim Bim oishi tôm cay",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "5,000",
             "image": "images/thuc-pham/av2.png"
         },
         {
             "productName": "Bim Bim oishi cua",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "5,000",
             "image": "images/thuc-pham/av3.png"
         },
         {
             "productName": "Bim Bim oishi mực",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "5,000",
             "image": "images/thuc-pham/av4.jpg"
         },
         {
             "productName": "Bim Bim oishi hành",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "5,000",
             "image": "images/thuc-pham/av5.png"
         },
         {
             "productName": "Bim Bim oishi bắp ngọt",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "5,000",
             "image": "images/thuc-pham/bap.png"
         },
         {
             "productName": "Bim Bim oishi bí đỏ",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "5,000",
             "image": "images/thuc-pham/bi-do.png"
         },
         {
             "productName": "Bim Bim oishi dưa leo",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "5,000",
             "image": "images/thuc-pham/dua leo.jpg"
         },
         {
             "productName": "Bim Bim Lays khoai tây",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/layskhoai.png"
         },
         {
             "productName": "Bim Bim Lays BBQ",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/laysbbq.png"
         },
         {
             "productName": "Bim Bim Lays phô mai",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/laysphomai.png"
         },
         {
             "productName": "Bim Bim Lays tôm càng phô mai",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/laystom.png"
         },
         {
             "productName": "Bim Bim Lays bò nướng",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/laysbonuong.png"
         },
         {
             "productName": "Bim Bim Lays phở bò hà nội",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/layspho.jpg"
         },
         {
             "productName": "Bim Bim Poca bò lúc lắc",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/poca-bo.png"
         },
         {
             "productName": "Bim Bim Poca gà quay giòn",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/poca-ga.webp"
         },
         {
             "productName": "Bim Bim Poca phô mai",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/poca-phomai.jpg"
         },
         {
             "productName": "Bim Bim Ostar kim chi",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/ostar-kimchi.png "
         },
         {
             "productName": "Bim Bim Ostar tảo biển",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/ostar-tao.png "
         },
         {
             "productName": "Bim Bim Swing MAX bò nướng",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/swing-bonuong.png "
         },
         {
             "productName": "Bim Bim Swing Chee-Z phô mai",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/swing-phomai.png "
         },
         {
             "productName": "Bim Bim Swing gà Teriyaki",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/swing-ga.png "
         },
         {
             "productName": "Bim Bim Masita bắp bơ",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/masita-bap.png "
         },
         {
             "productName": "Bim Bim Masita tôm nướng",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/masita-tom.png "
         },
         {
             "productName": "Marine boy vị rong biển xanh",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/marine-rongbien.png "
         },
         {
             "productName": "Marine boy vị tôm nướng",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "6,000",
             "image": "images/thuc-pham/marine-tom.png "
         },
         {
+            "productName": "ngô cay",
+            "category": "do-an-vat",
+            "price": "6,000",
+            "image": "images/thuc-pham/ngo-cay.jpg"
+        },
+        {
+            "productName": "ngô cay-bò khô",
+            "category": "do-an-vat",
+            "price": "6,000",
+            "image": "images/thuc-pham/ngo-caybo.jpg"
+        },
+        {
+            "productName": "hạt hướng dương",
+            "category": "do-an-vat",
+            "price": "6,000",
+            "image": "images/thuc-pham/hat-huongduong.jpg"
+        },
+        {
             "productName": "Snack vị xiên nướng",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "2,000",
             "image": "images/thuc-pham/2k1.png"
         },
         {
             "productName": "que cay",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "2,000",
             "image": "images/thuc-pham/2k2.jpg"
         },
         {
             "productName": "mỳ ý",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "2,000",
             "image": "images/thuc-pham/2k3.jpg"
         },
         {
             "productName": "sanck khoai tây",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "2,000",
             "image": "images/thuc-pham/2k4.jpg"
         },
         {
             "productName": "sanck ức gà",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "2,000",
             "image": "images/thuc-pham/2k5.jpg"
         },
         {
             "productName": "tăm cay",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "2,000",
             "image": "images/thuc-pham/2k6.jpg"
         },
         {
             "productName": "xúc xích ponnie",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "15,000",
-            "image": "images/thuc-pham/tuixucxich4k.png"
+            "image": "images/thuc-pham/xucxich4k.jpg"
         },
         {
             "productName": "túi xúc xích ponnie",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "15,000",
             "image": "images/thuc-pham/tuixucxich4k.png"
         },
         {
             "productName": "xúc xích cp",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "15,000",
-            "image": "images/thuc-pham/tuixucxich2k.jpg"
+            "image": "images/thuc-pham/xucxich2k.jpg"
         },
         {
             "productName": "túi xúc xích cp",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "15,000",
             "image": "images/thuc-pham/tuixucxich2k.jpg"
         },
         {
+            "productName": "kẹo mút chupa chups",
+            "category": "do-an-vat",
+            "price": "15,000",
+            "image": "images/thuc-pham/keo-mut.webp"
+        },
+        {
+            "productName": "kẹo mút doraemon",
+            "category": "do-an-vat",
+            "price": "15,000",
+            "image": "images/thuc-pham/keo-mutdo.jpg"
+        },
+        {
+            "productName": "kẹo cola",
+            "category": "do-an-vat",
+            "price": "15,000",
+            "image": "images/thuc-pham/keo-cola.jpg"
+        },
+        {
+            "productName": "kẹo dẻo",
+            "category": "do-an-vat",
+            "price": "15,000",
+            "image": "images/thuc-pham/keo-deo.jpg"
+        },
+        {
+            "productName": "kẹo hamburger",
+            "category": "do-an-vat",
+            "price": "15,000",
+            "image": "images/thuc-pham/keo-hb.jpg"
+        },
+        {
+            "productName": "kẹo sô cô la",
+            "category": "do-an-vat",
+            "price": "15,000",
+            "image": "images/thuc-pham/keo-kem.jpg"
+        },
+        {
             "productName": "Bánh mì dâu",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "5,000",
             "image": "images/thuc-pham/BMdau.webp"
         },
         {
             "productName": "Bánh mì dâu",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "5,000",
             "image": "images/thuc-pham/BMcom.jpg"
         },
         {
             "productName": "Bánh mì sandwich",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "15,000",
             "image": "images/thuc-pham/BMsw.jpg"
         },
         {
             "productName": "Lương khô dậu xanh",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "15,000",
             "image": "images/thuc-pham/luongkho2k.png"
         },
         {
             "productName": "Lương khô hạt điều",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "15,000",
             "image": "images/thuc-pham/luongkho5k.jpg"
         },
         {
             "productName": "",
-            "category": "thuc-pham",
+            "category": "do-an-vat",
             "price": "5,000",
             "image": "images/thuc-pham/av2.png"
         },
@@ -493,6 +547,12 @@
             "image": "images/banh-keo/keo-com.webp"
         },
         {
+            "productName": "kẹo mondy caramel muối",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/mondy.jpg"
+        },
+        {
             "productName": "kẹo gừng",
             "category": "banh-keo",
             "price": "5,000",
@@ -515,6 +575,24 @@
             "category": "banh-keo",
             "price": "5,000",
             "image": "images/banh-keo/keolac.jpg"
+        },
+        {
+            "productName": "bánh akiko",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/akiko.jpg"
+        },
+        {
+            "productName": "bánh nabati nhỏ",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/nabati-nho.webp"
+        },
+        {
+            "productName": "bánh nabati to",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/nabati-to.png"
         },
         {
             "productName": "bánh xốp ống nhân kem cốm",
@@ -565,10 +643,184 @@
             "image": "images/banh-keo/banh-karo.jpg"
         },
         {
+            "productName": "bánh afc vị rau",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-afc.png"
+        },
+        {
+            "productName": "bánh sweet gone",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-sw.jpg"
+        },
+        {
+            "productName": "bánh mocaro",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-monaco.jpg"
+        },
+        {
             "productName": "bánh gạo kenju",
             "category": "banh-keo",
             "price": "5,000",
-            "image": "images/banh-keo/banh-kenju.jpg"
+            "image": "images/banh-keo/banh-kenju.png"
+        },
+        {
+            "productName": "bánh gạo ichi",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-gaoichi.png"
+        },
+        {
+            "productName": "bánh gạo one one vị ngọt dịu",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-gaovingotdiu.png"
+        },
+        {
+            "productName": "bánh gạo one one vị bò nướng",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-gaobonuong.webp"
+        },
+        {
+            "productName": "bánh gạo one one vị tảo biển",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-gaovitao.png"
+        },
+        {
+            "productName": "bánh gạo one one vị phô mai",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-gaophomai.webp"
+        },
+        {
+            "productName": "bánh gạo nướng an vừng",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-gaoanvung.png"
+        },
+        {
+            "productName": "bánh gạo nướng an vị tự nhiên",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-gaoantn.png"
+        },
+        {
+            "productName": "bánh gạo nướng an vị tảo biển",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-gaoantao.png"
+        },
+        {
+            "productName": "bánh quy merry",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/merry.jpg"
+        },
+        {
+            "productName": "bánh chocopie",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/chocopie.png"
+        },
+        {
+            "productName": "bánh chocopie đậm",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/chocopie-dam.jpg"
+        },
+        {
+            "productName": "bánh longpie",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/longpie.png"
+        },
+        {
+            "productName": "bánh nice",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/nice.png"
+        },
+        {
+            "productName": "bánh custas",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/custas.png"
+        },
+        {
+            "productName": "bánh mazin nhỏ",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/mazin-nho.jpg"
+        },
+        {
+            "productName": "bánh mazin to",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/mazin-to.jpg"
+        },
+        {
+            "productName": "bánh peppie vị lá dứa",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-peppiedua.jpg"
+        },
+        {
+            "productName": "bánh peppie vị vani",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-peppievani.png"
+        },
+        {
+            "productName": "bánh peppie vị cam",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-peppiecam.jpg"
+        },
+        {
+            "productName": "bánh challot",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-challot.webp"
+        },
+        {
+            "productName": "bánh cosy túi nhỏ",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/cosy-tuinho.webp"
+        },
+        {
+            "productName": "bánh cosy túi lớn",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/cosy-tuilon.png"
+        },
+        {
+            "productName": "bánh cosy hộp",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/cosy-hop.png"
+        },
+        {
+            "productName": "bánh phát lộc vừng",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-phatloc.jpg"
+        },
+        {
+            "productName": "bánh quế",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-phat.jpg"
+        },
+        {
+            "productName": "bánh xốp vừng",
+            "category": "banh-keo",
+            "price": "5,000",
+            "image": "images/banh-keo/banh-xopvong.jpg"
         },
         {
             "productName": "hảo hảo chua cay",
@@ -665,6 +917,12 @@
             "category": "mi",
             "price": "5,000",
             "image": "images/mi/modern.png"
+        },
+        {
+            "productName": "",
+            "category": "sữa",
+            "price": "5,000",
+            "image": "images/thuc-pham/av2.png"
         },
         {
             "productName": "",
